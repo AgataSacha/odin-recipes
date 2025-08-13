@@ -1,1 +1,1 @@
-# odin-recipes
+This project demonstrates my ability to write simple code in html, use links, add images, create ordered and unordered list.
