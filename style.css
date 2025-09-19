@@ -1,0 +1,72 @@
+body {
+    font-family: serif;
+    background: #f9ebce;
+}
+
+
+.title,
+.dish-name {
+    text-align: center;
+    color: #57012c;
+    font-size: 50px;
+}
+
+.link-home{
+    color: #f9ebce;
+    font-size: 25px
+}
+
+.links-home-page {
+    display: block;
+    background-color: #57012c;
+    color: #f9ebce;
+    padding: 10px;
+    margin: 5px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.cinnamon {
+    width: 50%;
+}
+
+.photo-caption {
+    text-align: center;
+    color: #c3c1c2
+}
+
+.igredients,
+.recipe {
+    color: #57012c;
+    font-size: 30px;
+    display: block;
+    margin-top: 50px;
+}
+
+.list-of-igredients, 
+.instructions {
+    font-size: 20px;
+    display: block;
+    border-style: dashed;
+    border-color:  #57012c;
+}
+
+.links {
+    display: block;
+    background-color: #57012c;
+    padding-left: 8px;
+    padding-right: 8px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 30px;
+    margin-left:95% ;
+}
+
+.link-to-homepage {
+    color: #f9ebce;
+    font-size: 20px;
+}
+
